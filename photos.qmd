@@ -1,0 +1,92 @@
+# Photos
+
+## Comment choisir les photos?
+
+Les photos sont un élément très important des comptes-rendus. Si les
+photos sélectionnées sont bien choisies (et si de bonnes photos sont
+disponibles), il est souvent possible de se faire une idée de
+l'apparence et des éléments servant à identifier une espèce. Voici
+quelques critères à garder en tête lors de la sélection des photos:
+
+-   La première photo sert à représenter l'espèce sur le site. Cette
+    photo doit être la plus représentative possible de ce qu'un
+    observateur peut voir lorsqu'il rencontre l'espèce pour une première
+    fois sur le terrain. Elle doit aussi faciliter le travail de
+    recherche de l'utilisateur lorsqu'il parcourt le site à la recherche
+    de l'espèce qu'il a vu sur le terrain.
+
+-   Les photos suivantes devraient permettre de se faire une bonne idée
+    de l'apparence d'une espèce à différents niveaux (aspect général,
+    inflorescence, photos macros des fleurs, des fruits, photo de plus
+    loin illustrant un parterre de l'espèce, bourgeon, écorce, etc.)
+
+-   Idéalement, les photos devraient illustrer les critères permettant
+    l'identification
+
+En général, les photos devraient être organisées de cette façon:
+
+-   Les 1-4 premières photos devraient montrer l'espèce en mode plus ou
+    moins rapprochée (inflorescence, feuilles pour les arbres, épis pour
+    les _Carex_, une inflorescence en fruits, etc.)
+
+-   Les photos 3-7 devraient servir à illustrer des critères permettant
+    l'identification (pubescence, ligule, corolle, graînes, écorce,
+    photos macros, etc.)
+
+-   Finalement, les photos 6-8 devraient donner une bonne idée du port
+    ou de l'apparence de l'espèce lorsque vue de plus loin (un individu
+    vu de plus ou moins près, un arbre de loin, une prairie de l'espèce
+    ou un habitat dominé par l'espèce, etc.)
+
+## Respect des licenses
+
+Toutes les photos proviennent de la plateforme iNaturalist et sont
+disponibles publiquement. Pour cette raison, il est impératif de
+sélectionner des photos ayant une licence permettant leur utilisation.
+**Les photos pouvant être utilisées ont obligatoirement une licence CC0,
+CC BY ou CC BY-NC**. Ces licences permettent une utilisation libre et
+non-commerciale dans la mesure où l'auteur de la photo est crédité. Les
+photos n'ayant pas une de ces licences seront rejetées.
+
+## Comment lister les photos?
+
+La première partie du fichier `.md` contient les urls vers les photos
+qui sont présentées sur le site. Par exemple, le code suivant indique
+les photos à utiliser pour [*Cinna
+arundinacea*](https://github.com/frousseu/floreduquebecsp/blob/main/Esp%C3%A8ces/Poaceae/Cinna/Cinna_arundinacea.md).
+Plus spécifiquement, le code suivant indique que les photos 1, 3, 5 et
+13 de l'observation iNaturalist
+[195220528](https://www.inaturalist.org/observations/195220528) doivent
+être utilisées, puis les photos 1 et 4 de l'observation
+[195220524](https://www.inaturalist.org/observations/195220524), la 5e
+photo de l'oservation
+[195226187](https://www.inaturalist.org/observations/195226187) et
+finalement la 4e photo de l'observation
+[195708914](https://www.inaturalist.org/observations/195708914). **Un
+nombre maximal de 8 photos seront utilisées et elles seront présentées
+dans l'ordre donné**. Il est primordial de respecter l'ordre voulu et la
+syntaxe présentée ici. À noter que si plusieurs photos proviennent d'une
+même observation, il faudra répéter les urls si les photos ne se suivent
+pas (_e.g._ 2 photos peuvent provenir d'une même observation avec la
+1ère photo listée en premier et la 2e photo listée en 7e position)
+
+```         
+<!--
+
+1-3-5-13-https://www.inaturalist.org/observations/195220528
+1-4-https://www.inaturalist.org/observations/195220524
+5-https://www.inaturalist.org/observations/195226187
+4-https://www.inaturalist.org/observations/195708914
+
+-->
+```
+
+À noter que cette section est circonscrite par les caractères `<!--` et
+`-->` pour éviter l'intégration des adresses dans le site. Ces
+caractères doivent être présents en tout temps dans le fichier `.md`.
+
+## Explorateur photos
+
+Vous pouvez également utiliser l'explorateur de photos du site Flore
+Québec [https://florequebec.ca/photos](https://florequebec.ca/photos). Cet explorateur devrait
+grandement vous faciliter la tâche de recherche de photos.

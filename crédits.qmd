@@ -1,0 +1,27 @@
+# Crédits
+
+L'attribution des comptes-rendus et des clés est automatiquement
+déterminée à partir des soumissions et des modifications apportées par
+la plateforme Github. Cependant, il est également possible d'ignorer
+cette attribution automatique en inscrivant les crédits directement dans
+les comptes-rendus. Que ce soit dans les comptes-rendus, les clés, ou
+les comptes-rendus de taxons, on spécifie les différents rôles de cette
+façon:
+
+``` md
+Auteurs: Machin Chouette, Carl von Linné et Elvis Presley
+Modifié par: Bob Binette
+```
+
+Les lignes doivent débuter par `Auteur:`, `Auteurs:` ou `Modifié par:`.
+Lorsque ces lignes sont trouvées dans les comptes-rendus, ces
+informations auront préséance sur les crédits automatisés. La date
+indiquée comme date de mise à jour sera toutefois celle de la dernière
+modification détectée sur Github.
+
+Cette façon de procéder est surtout utile lorsqu'il y a plusieurs
+auteurs ou lorsque les modifications sont associées à plusieurs
+personnes, étant donné qu'une seule personne peut soumettre ou modifier
+un compte-rendu par l'intermédiaire de la plateforme Github. Cela permet
+aussi d'attribuer les crédits aux contributeurs qui ne souhaitent pas
+soumettre leur compte-rendu par l'intermédiaire de la plateforme Github.

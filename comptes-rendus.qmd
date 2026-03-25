@@ -1,0 +1,49 @@
+
+# Comptes-rendus
+
+## Section description
+
+La seconde partie du fichier `.md` contient le compte-rendu de l'espèce
+qui apparaîtra sur le site internet. Les titres sont précédés par `##`
+pour la formatin du titre. Bien que les titres puissent être modifiés,
+il est impératif de conserver ces titres pour assurer l'uniformité du
+site. S'il n'y a aucune information pour une section, il est préférable
+de laisser un tiret `-` suite au titre.
+
+## Traits distinctifs
+
+Ici, on trouve une liste à points des traits distinctifs de l'espèce ou
+des éléments clés pour repérer et reconnaître l'espèce sur le terrain.
+En d'autres mots, que remarque-t-on de particulier chez cette espèce par
+rapport aux autres semblables? Pour cette partie, on sépare les éléments
+de la liste à points par des tirets `-`. Voir notamment en exemple le
+compte-rendu pour [*Cinna
+arundinacea*](https://github.com/frousseu/floreduquebecsp/blob/main/Esp%C3%A8ces/Poaceae/Cinna/Cinna_arundinacea.md?plain=1).
+
+## Espèces semblables
+
+Ici, on énumère les critères à regarder pour différencier cette espèce
+des autres espèces semblables. L'idéal est de cibler les espèces qui
+sont les plus semblables et de ne pas se perdre dans la description des
+autres espèces qui sont clairement différentes si on regarde
+attentivement les photos.
+
+## Habitat
+
+Ici, on trouve une description sommaire de l'habitat et possiblement de
+la répartition de l'espèce. On peut se baser sur l'expérience
+personnelle.
+
+## Commentaires
+
+Finalement, est-ce qu'il y a des remarques à faire pour l'espèce
+notamment en lien avec la distribution, la taxonomie, le statut ou en
+lien avec d'autres éléments intéressants concernant l'espèce? On peut
+aussi discuter des sous-espèces ou des variétés ou de certaines
+particularités de l'espèce.
+
+
+
+
+
+
