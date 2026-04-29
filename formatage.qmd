@@ -1,16 +1,13 @@
-
-
 # Formatage
 
 Voici les principaux éléments de formattage `markdown` que vous pourriez
 vouloir utiliser lors de l'écriture des comptes-rendus. Les noms de
-taxon devraient être en italique.
+taxons devraient être en italique.
 
 | Code | Texte |
 |------------------------------------|------------------------------------|
 | `Ce texte est en _italique_` | Ce texte est en *italique* |
-| `Ce texte est en **gras**` | Ce texte est en **gras** |
-| `L'adresse du site est [florequebec.ca](https://florequebec.ca)` | L'adresse du site est [florequebec.ca](https://florequebec.ca) |
+| `L'adresse est [florequebec.ca](https://florequebec.ca)` | L'adresse est [florequebec.ca](https://florequebec.ca) |
 
 ## Ponctuation et symboles
 

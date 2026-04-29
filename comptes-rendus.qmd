@@ -1,8 +1,6 @@
 
 # Comptes-rendus
 
-## Section description
-
 La seconde partie du fichier `.md` contient le compte-rendu de l'espèce
 qui apparaîtra sur le site internet. Les titres sont précédés par `##`
 pour la formatin du titre. Bien que les titres puissent être modifiés,
